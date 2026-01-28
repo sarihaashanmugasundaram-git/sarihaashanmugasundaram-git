@@ -115,7 +115,4 @@ Leadership • Mentoring • Stakeholder Communication • Planning & Organizati
 Problem Solving • Continuous Improvement • Cross-functional Collaboration  
 Learner-Centric Approach • Adaptability • Analytical Thinking
 
----
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="170"/>
-</p>
